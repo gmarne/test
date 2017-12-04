@@ -1,0 +1,5 @@
+Company Code	Account	City	Country	Credit Rating	Currency	Amount	
+2300	9917319		USA	AAA+	CHF	100.0	
+2301	7213447	New York	USA	AAA+	GBP	100.0	
+2302	7213447	SFO	USA	AAA+	EUR	100.0	
+2303	2954026	Atlanta	USA	AAA+	USD	100.0	
